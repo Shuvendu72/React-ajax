@@ -1,5 +1,6 @@
 # React-ajax
-Fetch data from a page
+Fetch data from a page.
+----------------------------------------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
